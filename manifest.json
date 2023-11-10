@@ -6,6 +6,12 @@
     "action": {
       "default_popup": "hello.html",
       "default_icon": "sillycat.png"
+    },
+    "icons": {
+      "16": "icon16.png",
+      "32": "sillycat32.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
     }
   } 
   
